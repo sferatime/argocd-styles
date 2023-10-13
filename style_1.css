@@ -1,9 +1,9 @@
+body {
+  background: #d3d3d3;
+}
 .top-bar {
   background: #778899;
 }
 .sidebar {
   background: #808080;
-}
-.page__content-wrapper {
-  background: #d3d3d3;
 }
