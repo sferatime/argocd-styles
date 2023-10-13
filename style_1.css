@@ -1,4 +1,11 @@
-.page__content-wrapper  {
+:root {
+  --sidebar-background: #808080;
+  --page-and-panel-background: #d3d3d3;
+}
+.page__content-wrapper {
+  background: #d3d3d3;
+}
+.sliding-panel__body {
   background: #d3d3d3;
 }
 .top-bar {
